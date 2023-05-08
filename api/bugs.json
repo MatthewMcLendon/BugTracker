@@ -1,0 +1,18 @@
+{
+  "bugs": [
+    {
+      "project": "Miskatonic News",
+      "description": "Bottom div needs to stick to bottom of page",
+      "user": "Matthew McLendon",
+      "date": 1683488405085,
+      "id": 1
+    },
+    {
+      "project": "Miskatonic News",
+      "description": "Format articles to the left",
+      "user": "Matthew McLendon",
+      "date": 1683508405085,
+      "id": 1
+    }
+  ]
+}
