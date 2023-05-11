@@ -1,10 +1,10 @@
-const bugComponent = (bugs) => {
+const bugComponent = (bug) => {
   return `
     <div>
-        <div class="bug-project">${bugs.project}</div>
-        <div class="bug-description">${bugs.description}</div>
-        <div class="bug-user">${bugs.user}</div>
-        <div class="bug-date">${new Date(notes.date).toLocaleDateString(
+        <div class="bug-project">${bug.project}</div>
+        <div class="bug-description">${bug.description}</div>
+        <div class="bug-user">${bug.user}</div>
+        <div class="bug-date">${new Date(bug.date).toLocaleDateString(
           "en-US"
         )}</div>
     </div>
